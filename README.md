@@ -1,4 +1,4 @@
 # hello-world
 Hi People!
 
-Su here, I like to develop web apps and it is what I am craving for. 
+Su here, I like Java, ASP.Net, Node.js and it is what I am craving for. 
